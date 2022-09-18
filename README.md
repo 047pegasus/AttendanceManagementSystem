@@ -1,2 +1,2 @@
-# AttendanceManagementSystem
-Internship project to make an Attendance Management System deployed on the cloud using services like PaaS.
+The project was developed by Team Pegasus as an internship project.
+This project us bootstrapped using Create React App command and it is a dynamic React based Web application that uses Firebase API's in order to fetch data from realtime database available on Firebase.
