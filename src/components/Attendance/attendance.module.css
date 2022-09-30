@@ -167,3 +167,30 @@
 	letter-spacing:0;
 }
 
+
+
+
+
+
+
+thead{
+    background-color:blueviolet;
+}
+th{
+    font-family: Montserrat;
+    color: white;
+    border: 1px solid blueviolet;  
+    font-weight: bolder;
+    font-size: 1.5em;
+}
+tr{
+    font-family: Montserrat;
+    text-align: center;
+}
+td{
+    
+    border: 1px solid blueviolet;
+    color: white;
+    
+}
+
