@@ -1,7 +1,6 @@
 {
   "name": "attendance_management_system",
   "version": "0.1.0",
-  "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
@@ -41,5 +40,10 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "description": "The project was developed by Team Pegasus as an internship project. This project us bootstrapped using Create React App command and it is a dynamic React based Web application that uses Firebase API's in order to fetch data from realtime database available on Firebase.",
+  "main": "index.js",
+  "devDependencies": {},
+  "author": "047pegasus",
+  "license": "ISC"
 }
