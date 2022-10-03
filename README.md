@@ -8,17 +8,22 @@
 
 [https://pegasus-attendance-system.web.app/](https://pegasus-attendance-system.web.app/)
 
-<h2>Project Screenshots:</h2>
+<h2>📷️ Project Screenshots:</h2>
 
-<img src="https://i.postimg.cc/brRHhkM7/Login-Page.jpg" alt="project-screenshot" width="700" height="430/">
+<h3>Login Screen:</h3>
+<img align="center" src="https://i.postimg.cc/brRHhkM7/Login-Page.jpg" alt="project-screenshot" width="700" height="430/">
 
-<img src="https://i.postimg.cc/MG46KLVw/Main-Wireframe.jpg" alt="project-screenshot" width="700" height="430/">
+<h3>Main Application Dashboard:</h3>
+<img align="center" src="https://i.postimg.cc/MG46KLVw/Main-Wireframe.jpg" alt="project-screenshot" width="700" height="430/">
 
-<img src="https://i.postimg.cc/0yNghCFq/Attendance-Page.png" alt="project-screenshot" width="700" height="430/">
+<h3>Attendance Dashboard:</h3>
+<img align="center" src="https://i.postimg.cc/0yNghCFq/Attendance-Page.png" alt="project-screenshot" width="700" height="430/">
 
-<img src="https://i.postimg.cc/DzKr8CT9/User-List.jpg" alt="project-screenshot" width="700" height="430/">
+<h3>Add User Feature Dashboard:</h3>
+<img align="center" src="https://i.postimg.cc/DzKr8CT9/User-List.jpg" alt="project-screenshot" width="700" height="430/">
 
-<img src="https://i.postimg.cc/SKynBHqx/Logout-Page.jpg" alt="project-screenshot" width="700" height="430/">
+<h3>Logout Dashboard:</h3>
+<img align="center" src="https://i.postimg.cc/SKynBHqx/Logout-Page.jpg" alt="project-screenshot" width="700" height="430/">
 
   
   
