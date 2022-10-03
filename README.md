@@ -10,15 +10,15 @@
 
 <h2>Project Screenshots:</h2>
 
-<img src="https://i.postimg.cc/brRHhkM7/Login-Page.jpg" alt="project-screenshot" width="1280" height="600/">
+<img src="https://i.postimg.cc/brRHhkM7/Login-Page.jpg" alt="project-screenshot" width="700" height="430/">
 
-<img src="https://i.postimg.cc/MG46KLVw/Main-Wireframe.jpg" alt="project-screenshot" width="1280" height="600/">
+<img src="https://i.postimg.cc/MG46KLVw/Main-Wireframe.jpg" alt="project-screenshot" width="700" height="430/">
 
-<img src="https://i.postimg.cc/0yNghCFq/Attendance-Page.png" alt="project-screenshot" width="1280" height="600/">
+<img src="https://i.postimg.cc/0yNghCFq/Attendance-Page.png" alt="project-screenshot" width="700" height="430/">
 
-<img src="https://i.postimg.cc/DzKr8CT9/User-List.jpg" alt="project-screenshot" width="1280" height="600/">
+<img src="https://i.postimg.cc/DzKr8CT9/User-List.jpg" alt="project-screenshot" width="700" height="430/">
 
-<img src="https://i.postimg.cc/SKynBHqx/Logout-Page.jpg" alt="project-screenshot" width="1280" height="600/">
+<img src="https://i.postimg.cc/SKynBHqx/Logout-Page.jpg" alt="project-screenshot" width="700" height="430/">
 
   
   
